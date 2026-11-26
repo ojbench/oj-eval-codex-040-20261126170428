@@ -27,3 +27,12 @@ The live problem API accepts only `cpp`, and the assignment supplies the judge
 driver. Submit `solution.hpp` as C++ source, without a main function. The CMake
 `code` target is the local test runner. The supplied client's missing
 `submit_code` method has been restored to support its documented CLI.
+
+## Judge result
+
+- Submission: 879463 (problem 2640, C++).
+- Result: Accepted, 100/100, on the first of five permitted attempts.
+- All six correctness and memory-check groups passed.
+- Submitted implementation commit: aa958c9c05a10f6d00622b9c4d3b082664a990fc.
+- The remote commit was verified before submission; no repository changes or
+  pushes were made while judging was in progress.
